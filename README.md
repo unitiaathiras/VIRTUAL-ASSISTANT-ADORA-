@@ -15,6 +15,8 @@ Functionalities of ADORA:
 
 5. Google search
 
+6. Youtube search
+
 Asking ADORA to play a song that is not in the system collection
 
 ![adora_output4](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/01101dc3-da97-4355-8223-8aa813fd69e2)
@@ -51,4 +53,12 @@ And here we got this
 
 ![adora_google_search_o](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/c92de833-0cd5-4a70-9799-79c84e84f930)
 
+
+Asking ADORA to search on youtube
+
+![adora_youtube_search](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/354cdf53-f31a-4590-8550-49dec1512939)
+
+Here i got this
+
+![adora_youtube_search_o](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/582f764c-1f6c-4eb3-8f0e-0d275e50a05c)
 
