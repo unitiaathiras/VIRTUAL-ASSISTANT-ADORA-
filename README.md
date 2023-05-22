@@ -13,6 +13,8 @@ Functionalities of ADORA:
 
 4. Tell me a joke
 
+5. Google search
+
 Asking ADORA to play a song that is not in the system collection
 
 ![adora_output4](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/01101dc3-da97-4355-8223-8aa813fd69e2)
