@@ -22,3 +22,14 @@ Asking ADORA to take a screenshot
 Here is the screensot adora taked.
 
 ![none](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/e6467623-f679-4bde-97e1-1e8b878c2bf6)
+
+Asking ADORA to find my location
+
+![adora_output6](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/ec74a8b0-af9d-48e2-9c98-dc7e8e59f73e)
+
+It is pretty good
+
+
+![adora_output5](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/6d083d3b-ae79-421f-a26f-5d40f43d8dcb)
+
+
