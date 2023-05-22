@@ -40,3 +40,13 @@ It is pretty good
 Asking ADORA to tell me a joke
 
 ![adora_output7](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/a0ebef67-3500-4afc-965d-936801acce97)
+
+Asking ADORA to search on google
+
+![adora_google_search](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/488005c1-a489-4e5c-84b3-2aa88a7aa961)
+
+And here we got this
+
+![adora_google_search_o](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/c92de833-0cd5-4a70-9799-79c84e84f930)
+
+
