@@ -11,6 +11,8 @@ Functionalities of ADORA:
 
 3. Find my location
 
+4. Tell me a joke
+
 Asking ADORA to play a song that is not in the system collection
 
 ![adora_output4](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/01101dc3-da97-4355-8223-8aa813fd69e2)
@@ -35,3 +37,6 @@ It is pretty good
 ![adora_output5](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/6d083d3b-ae79-421f-a26f-5d40f43d8dcb)
 
 
+Asking ADORA to tell me a joke
+
+![adora_output7](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/a0ebef67-3500-4afc-965d-936801acce97)
