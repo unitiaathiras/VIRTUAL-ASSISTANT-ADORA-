@@ -9,6 +9,8 @@ Functionalities of ADORA:
  
 2. Take a screenshot
 
+3. Find my location
+
 Asking ADORA to play a song that is not in the system collection
 
 ![adora_output4](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/01101dc3-da97-4355-8223-8aa813fd69e2)
