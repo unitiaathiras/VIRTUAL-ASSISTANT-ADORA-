@@ -17,6 +17,42 @@ Functionalities of ADORA:
 
 6. Youtube search
 
+7.open websites
+
+8.wikipedia search
+
+9. whatsapp message
+
+    -to individuals
+    -whatsapp groups
+   
+10. Open Applications
+
+11. Close Applications
+
+12. Youtube Automation
+
+13. Chrome Automation
+
+14. Repeat words
+
+15. Live Dictionary
+
+16. Alarm
+
+17. Live translator for Malayalam language
+
+18. Reminder
+
+19. Advance Google Scrap Search
+
+20. Find current temperature
+
+21. Read books
+
+    -In English and
+    - Malayalam
+
 Asking ADORA to play a song that is not in the system collection
 
 ![adora_output4](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/01101dc3-da97-4355-8223-8aa813fd69e2)
