@@ -1,6 +1,7 @@
 # VIRTUAL-ASSISTANT-ADORA-
 Artificial Driver Observer Rather Intelligent Assistant
 
+GUI FOR ADORA IS IN PROGRESS...  🦖  
 Functionalities of ADORA:
 
 1. Play song
@@ -52,6 +53,14 @@ Functionalities of ADORA:
 
     -In English and
     - Malayalam
+    - 
+22. Check Internet Speed
+    -Downloadind Speed
+    - Uploading Speed
+    
+23. Ask Anything from ADORA
+
+24. Hotward Detection
 
 Asking ADORA to play a song that is not in the system collection
 
