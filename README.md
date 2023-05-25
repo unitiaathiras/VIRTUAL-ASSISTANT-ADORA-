@@ -1,7 +1,11 @@
 # VIRTUAL-ASSISTANT-ADORA-
 Artificial Driver Observer Rather Intelligent Assistant
 
-GUI FOR ADORA IS IN PROGRESS...  🦖  
+GUI FOR ADORA IS IN PROGRESS...  🦖 
+
+Also heartly welcome to your suggestions guys...
+📧athirashibuathi20@gmail.com
+
 Functionalities of ADORA:
 
 1. Play song
