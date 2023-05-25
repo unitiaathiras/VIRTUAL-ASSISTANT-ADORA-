@@ -1,5 +1,8 @@
 # VIRTUAL-ASSISTANT-ADORA-
-Artificial Driver Observer Rather Intelligent Assistant
+✨ ARTIFICIAL DRIVER OBSERVER RATHER INTELLIGENT ASSISTANT
+
+![adora_complete_gui](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/d281bfa1-c4cc-4644-a32b-6d2e676e51a6)
+
 
 GUI FOR ADORA IS IN PROGRESS...  🦖 
 
