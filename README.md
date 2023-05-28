@@ -13,6 +13,12 @@ Adora finds a magical sword that transforms her int She-Ra, a legendary princess
 
 Now we need to create a chatbot section for the model. We need it as a pair programmer and need to add a chat section in our GUI for ADORA.So it will be helpful for me in developing....As iam a fresher and learning new things daily iam always stuck with constructors, syntaxes etc :-(  So get ready with our guns we going to do this....  🦖 Also need to modify the GUI as we need to add the Temperature, Day, Time in the GUI. Also we need to add a chat section...
 
+
+
+https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/24a2a446-663b-4d98-880d-b075452862f5
+
+
+
 Also heartly welcome to your suggestions guys...
 📧athirashibuathi20@gmail.com
 
