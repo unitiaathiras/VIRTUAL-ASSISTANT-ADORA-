@@ -4,6 +4,10 @@
 ![adora_complete_gui](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/d281bfa1-c4cc-4644-a32b-6d2e676e51a6)
 
 
+![AdoraRender (1)](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/6fd8347e-27b0-450b-a50e-83cc6778ce14)
+
+
+
 She-Ra and the Princess of power.
 Adora finds a magical sword that transforms her int She-Ra, a legendary princess. She then decides to join the rebellion against the Horde to free her planet.
 
