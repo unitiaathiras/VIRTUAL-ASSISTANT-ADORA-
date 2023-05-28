@@ -17,7 +17,7 @@ Now we need to create a chatbot section for the model. We need it as a pair prog
 
 https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/24a2a446-663b-4d98-880d-b075452862f5
 
-
+I just arranged space for Time,Date,Temperature..and for the chat section...will modify the GUI as soon as possible when completes the model...training...keep ping me if you have any suggestions...it is really helpful... :-
 
 Also heartly welcome to your suggestions guys...
 📧athirashibuathi20@gmail.com
