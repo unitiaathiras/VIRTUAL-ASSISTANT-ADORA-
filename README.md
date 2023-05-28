@@ -4,7 +4,7 @@
 ![adora_complete_gui](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/d281bfa1-c4cc-4644-a32b-6d2e676e51a6)
 
 
-GUI FOR ADORA IS IN PROGRESS...  🦖 
+Now we need to create a chatbot section for the model. We need it as a pair programmer and need to add a chat section in our GUI for ADORA.So it will be helpful for me in developing....As iam a fresher and learning new things daily iam always stuck with constructors, syntaxes etc :-(  So get ready with our guns we going to do this....  🦖 Also need to modify the GUI as we need to add the Temperature, Day, Time in the GUI. Also we need to add a chat section...
 
 Also heartly welcome to your suggestions guys...
 📧athirashibuathi20@gmail.com
