@@ -139,7 +139,7 @@ Here is the result
 
 ![adora_facebook_output](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/190d3335-b24b-45d3-ae4b-1e1ba7a062a5)
 
-Ask ANYTHING to ADORA. We got it ...
+Ask ANYTHING to ADORA. We got it ...Here i made an advance search. That we will get a point to point result from web. Made a summary of the search result. 
 
 ![ask_anything](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/3e4b7c5b-5445-47f5-9e5b-848cdb636605)
 
