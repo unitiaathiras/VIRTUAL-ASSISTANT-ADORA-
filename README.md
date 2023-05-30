@@ -9,7 +9,7 @@
 
 
 She-Ra and the Princess of power.
-Adora finds a magical sword that transforms her int She-Ra, a legendary princess. She then decides to join the rebellion against the Horde to free her planet.
+Adora finds a magical sword that transforms her into She-Ra, a legendary princess. She then decides to join the rebellion against the Horde to free her planet.
 
 Now we need to create a chatbot section for the model. We need it as a pair programmer and need to add a chat section in our GUI for ADORA.So it will be helpful for me in developing....As iam a fresher and learning new things daily iam always stuck with constructors, syntaxes etc :-(  So get ready with our guns we going to do this....  🦖 Also need to modify the GUI as we need to add the Temperature, Day, Time in the GUI. Also we need to add a chat section...
 
@@ -127,3 +127,32 @@ Here i got this
 
 ![adora_youtube_search_o](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/582f764c-1f6c-4eb3-8f0e-0d275e50a05c)
 
+Asking ADORA to set an alarm for me
+
+![adora_alarm](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/11b3e6e3-fd71-46e2-b44b-c93f634e0918)
+
+Asking ADORA to open facebook for me
+
+![adora_facebook](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/5fde1f53-c19c-4958-b04c-eed70ab4c668)
+
+Here is the result
+
+![adora_facebook_output](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/190d3335-b24b-45d3-ae4b-1e1ba7a062a5)
+
+Ask ANYTHING to ADORA. We got it ...
+
+![ask_anything](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/3e4b7c5b-5445-47f5-9e5b-848cdb636605)
+
+Asking ADORA to open instagram.
+
+![adora_instagram](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/5b404688-c8ec-4245-be83-d7f12eddd890)
+
+Here is the RESULT
+
+![adora_instagram_output](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/55286f88-a202-44e7-90f4-01b82104aeb2)
+
+Asking ADORA to open any websites..i asked here for stack overflow
+![opening_stachoverflow](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/796b4301-fcf6-4f43-ab93-ebde52496abb)
+
+Asking ADORA to check the internet speed...
+![internet_speed](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/aa56ae85-db02-44ca-a86d-cf476b0f070d)
