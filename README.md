@@ -157,8 +157,10 @@ Asking ADORA to open any websites..i asked here for stack overflow
 Asking ADORA to check the internet speed...
 ![internet_speed](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/aa56ae85-db02-44ca-a86d-cf476b0f070d)
 
+📙📖
 
-                                                           📖DOCUMENTATION
+
+                                                          DOCUMENTATION
 
 Virtual Assistant Adora is an open-source virtual assistant project designed to provide a conversational interface for various tasks. It utilizes natural language processing and machine learning techniques to understand user queries and generate relevant responses. The project is built using Python and leverages the power of the Google Dialogflow platform for natural language understanding.
 
