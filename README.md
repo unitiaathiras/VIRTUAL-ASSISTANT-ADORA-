@@ -156,3 +156,34 @@ Asking ADORA to open any websites..i asked here for stack overflow
 
 Asking ADORA to check the internet speed...
 ![internet_speed](https://github.com/unitiaathiras/VIRTUAL-ASSISTANT-ADORA-/assets/127323277/aa56ae85-db02-44ca-a86d-cf476b0f070d)
+
+
+                                                           📖DOCUMENTATION
+
+Virtual Assistant Adora is an open-source virtual assistant project designed to provide a conversational interface for various tasks. It utilizes natural language processing and machine learning techniques to understand user queries and generate relevant responses. The project is built using Python and leverages the power of the Google Dialogflow platform for natural language understanding.
+
+Features
+Virtual Assistant Adora offers a range of features to enhance user interactions:
+
+Text-based Conversation: Users can communicate with Adora by sending text-based queries or commands. Adora will process the input and generate appropriate responses based on the user's intent.
+
+Speech Recognition: Adora supports speech recognition, enabling users to interact with the assistant using their voice. The project integrates the Google Speech-to-Text API to convert spoken language into text for further processing.
+
+Text-to-Speech: Adora can generate speech output for its responses. It utilizes the Google Text-to-Speech API to convert text into synthesized speech, facilitating a more intuitive and interactive user experience.
+
+Intent Recognition: Adora employs machine learning techniques to understand user intents accurately. It leverages the Google Dialogflow platform, which provides advanced natural language understanding capabilities and a powerful intent matching system.                                                           
+Here are some of the methodologies or techniques used in the project:
+
+Speech Recognition: The code utilizes the speech_recognition library to convert speech input into text.
+
+Text-to-Speech Conversion: The pyttsx3 and gtts libraries are used to convert text into speech output, allowing the assistant to provide spoken responses.
+
+Web Scraping: The BeautifulSoup library (bs4) is used for web scraping, allowing the assistant to extract information from websites.
+
+Web Automation: The webbrowser library is used to open websites, and the pyautogui library is used for automating tasks like taking screenshots.
+
+API Integration: The code integrates with various APIs, such as pywhatkit for tasks like playing music and sending WhatsApp messages, and googletrans for language translation.
+
+File Handling: The code uses the PyPDF2 library to read PDF files and extract text.
+
+Date and Time Manipulation: The datetime library is used to work with dates and times, enabling the assistant to provide current time and date information.
