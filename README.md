@@ -35,6 +35,9 @@ Functionalities of ADORA:
 4. Tell me a joke
 
 5. Google search
+    a)Direct Google Search
+    b)Give step by step results
+    c)Reads a summary 
 
 6. Youtube search
 
