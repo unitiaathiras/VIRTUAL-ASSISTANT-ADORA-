@@ -11,8 +11,8 @@
 She-Ra and the Princess of power.
 Adora finds a magical sword that transforms her into She-Ra, a legendary princess. She then decides to join the rebellion against the Horde to free her planet.
 
-Okay...Time for reality...When i decide to do this PROJECT...i thought i can build as two main modules and many sub modules for this project. Also i decided to build a GUI for this model.
-Now both the automation section and chatbot section completed. Now we reached the final stage. Need to integrate these two modules...But before that
+Okay...Time for reality...When i decide to do this PROJECT...i thought i can build it as two main modules and many sub modules for this project. Also i decided to build a GUI for this model.
+Now both the automation section and chatbot section has completed. Now we reached the final stage. Need to integrate these two modules...But before that
 
 ----->  i have to decrease loss by increasing training data
 
