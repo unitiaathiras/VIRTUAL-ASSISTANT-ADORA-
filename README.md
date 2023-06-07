@@ -11,7 +11,15 @@
 She-Ra and the Princess of power.
 Adora finds a magical sword that transforms her into She-Ra, a legendary princess. She then decides to join the rebellion against the Horde to free her planet.
 
-Now we need to create a chatbot section for the model. We need it as a pair programmer and need to add a chat section in our GUI for ADORA.So it will be helpful for me in developing....As iam a fresher and learning new things daily iam always stuck with constructors, syntaxes etc :-(  So get ready with our guns we going to do this....  🦖 Also need to modify the GUI as we need to add the Temperature, Day, Time in the GUI. Also we need to add a chat section...
+Okay...Time for reality...When i decide to do this PROJECT...i thought i can build as two main modules and many sub modules for this project. Also i decided to build a GUI for this model.
+Now both the automation section and chatbot section completed. Now we reached the final stage. Need to integrate these two modules...But before that
+
+----->  i have to decrease loss by increasing training data
+
+----->  make this as a rather advance one.
+
+----->  Need to add data that enable our model to act as a pair programmer.
+
 
 
 
